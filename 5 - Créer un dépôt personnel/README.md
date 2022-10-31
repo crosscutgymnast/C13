@@ -7,6 +7,7 @@ Créer un dépôt initiale sur Github par l'entremise du logiciel Git. Création
 ## Contenu du répertoire
 
 - Read_Me.md
+- lab_05.pdf
 
 ## Status du projet
 
