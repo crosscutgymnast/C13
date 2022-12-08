@@ -25,6 +25,4 @@ Ce repository contient l'intégralité des laboratoires et différents projets d
 
 ## Modification à apporter
 
-- Ajout des branches futures
-- Laboratoire 8
-- Projet Excel à faire
+- Projet Excel en cours. Terminer l'animation.
