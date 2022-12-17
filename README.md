@@ -1,8 +1,8 @@
-# C13 - Julien Coulombe-Morency 
+# C13 - Julien Coulombe-Morency
 
 ## Description du projet
 
-Ce repository contient l'intégralité des laboratoires et différents projets du cours d'outils de gestion et soutiens.   
+Ce repository contient l'intégralité des laboratoires et différents projets du cours d'outils de gestion et soutiens.
 
 ## Contenu du répertoire
 
@@ -21,7 +21,7 @@ Ce repository contient l'intégralité des laboratoires et différents projets d
 
 ## Status du projet
 
-![status badge](https://img.shields.io/badge/C13-En%20cours-yellow)
+![status badge](hhttps://img.shields.io/badge/C13-Terminer-brightgreen#:~:text=Terminer-,Terminer)
 
 ## Modification à apporter
 
