@@ -21,7 +21,7 @@ Ce repository contient l'intégralité des laboratoires et différents projets d
 
 ## Status du projet
 
-![status badge](hhttps://img.shields.io/badge/C13-Terminer-brightgreen#:~:text=Terminer-,Terminer)
+![status badge](https://img.shields.io/badge/C13-Terminer-brightgreen)
 
 ## Modification à apporter
 
